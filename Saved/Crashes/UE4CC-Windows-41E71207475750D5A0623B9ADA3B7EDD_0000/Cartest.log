@@ -1,0 +1,1170 @@
+﻿Log file open, 08/06/19 20:22:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Cartest
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.687798
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.286s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Engine.ini]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.08.07-00.22.09:978][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.08.07-00.22.09:979][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Engine.ini]
+[2019.08.07-00.22.09:980][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Engine.ini]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.07-00.22.09:980][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Engine.ini]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.07-00.22.09:981][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Engine.ini]
+[2019.08.07-00.22.09:981][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Engine.ini]
+[2019.08.07-00.22.09:987][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.07-00.22.09:987][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.07-00.22.09:988][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.07-00.22.09:989][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.07-00.22.09:990][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.07-00.22.09:990][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.07-00.22.10:010][  0]LogHAL: Display: Platform has ~ 4 GB [4172713984 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.08.07-00.22.10:011][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.07-00.22.10:011][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.07-00.22.10:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.08.07-00.22.10:012][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Scalability.ini]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.08.07-00.22.10:013][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.07-00.22.10:014][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.07-00.22.10:014][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/matia/Documents/a git/Cartest/Saved/Config/Windows/Engine.ini]
+[2019.08.07-00.22.10:016][  0]LogInit: Computer: LAPTOP-UHG7CHI7
+[2019.08.07-00.22.10:016][  0]LogInit: User: Waranis
+[2019.08.07-00.22.10:016][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.07-00.22.10:016][  0]LogInit: High frequency timer resolution =1.757812 MHz
+[2019.08.07-00.22.10:016][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2019.08.07-00.22.10:016][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.07-00.22.10:016][  0]LogMemory: Process Physical Memory: 101.76 MB used, 101.76 MB peak
+[2019.08.07-00.22.10:016][  0]LogMemory: Process Virtual Memory: 89.93 MB used, 89.93 MB peak
+[2019.08.07-00.22.10:016][  0]LogMemory: Physical Memory: 3248.17 MB used,  731.24 MB free, 3979.41 MB total
+[2019.08.07-00.22.10:016][  0]LogMemory: Virtual Memory: 4637.27 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.08.07-00.22.10:171][  0]LogInit: Using OS detected language (es-MX).
+[2019.08.07-00.22.10:171][  0]LogInit: Using OS detected locale (es-CL).
+[2019.08.07-00.22.10:183][  0]LogTextLocalizationManager: No specific localization for 'es-MX' exists, so the 'es' localization will be used.
+[2019.08.07-00.22.11:546][  0]LogStreaming: Display: Took  1.376s to InitEngineTextLocalization.
+[2019.08.07-00.22.11:547][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.07-00.22.11:738][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.07-00.22.11:739][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.07-00.22.12:838][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.07-00.22.12:838][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.07-00.22.12:922][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.08.07-00.22.12:922][  0]LogD3D11RHI:       128/0/1989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.08.07-00.22.13:699][  0]LogD3D11RHI:    1. 'Radeon 530 Series' (Feature Level 11_0)
+[2019.08.07-00.22.13:699][  0]LogD3D11RHI:       2039/0/1989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2019.08.07-00.22.13:707][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.07-00.22.13:707][  0]LogD3D11RHI:       0/0/1989 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.07-00.22.13:707][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.08.07-00.22.13:728][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.07-00.22.13:728][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.07-00.22.13:728][  0]LogWindows: EnumDisplayDevices:
+[2019.08.07-00.22.13:729][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.08.07-00.22.13:732][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.08.07-00.22.13:734][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.08.07-00.22.13:735][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.07-00.22.13:736][  0]LogD3D11RHI:     Adapter Name: Radeon 530 Series
+[2019.08.07-00.22.13:736][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.07-00.22.13:736][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.07-00.22.13:736][  0]LogRHI: Texture pool is 1427 MB (70% of 2039 MB)
+[2019.08.07-00.22.14:057][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.07-00.22.14:085][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.08.07-00.22.14:873][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.07-00.22.14:904][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.07-00.22.14:932][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.07-00.22.14:966][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.07-00.22.15:011][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.07-00.22.15:047][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.07-00.22.15:083][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.07-00.22.15:112][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.07-00.22.15:125][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:273][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-00.22.15:277][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.07-00.22.15:374][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.07-00.22.15:374][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.07-00.22.15:461][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.07-00.22.15:461][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.07-00.22.15:488][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.07-00.22.15:524][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.07-00.22.15:570][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.07-00.22.15:627][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.07-00.22.15:863][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.07-00.22.15:863][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.07-00.22.15:863][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.07-00.22.16:366][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/matia/Documents/a git/Cartest/Intermediate/Shaders/WorkingDirectory/2736/).
+[2019.08.07-00.22.16:366][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matia/AppData/Local/Temp/UnrealShaderWorkingDir/81A7A29A4E39B2C07911D3BA54820CCB/'.
+[2019.08.07-00.22.16:388][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.07-00.22.16:388][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.07-00.22.16:388][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.07-00.22.19:024][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.07-00.22.19:323][  0]LogDerivedDataCache: Loaded boot cache 0.30s 67MB C:/Users/matia/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.07-00.22.19:323][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/matia/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.08.07-00.22.19:324][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/matia/Documents/a git/Cartest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.07-00.22.19:324][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.07-00.22.19:324][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/matia/Documents/a git/Cartest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.07-00.22.19:324][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.07-00.22.19:398][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.07-00.22.19:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.07-00.22.19:398][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.07-00.22.19:413][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.07-00.22.19:413][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.07-00.22.19:413][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.07-00.22.19:526][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.07-00.22.19:536][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.07-00.22.19:545][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.07-00.22.20:084][  0]LogAssetRegistry: FAssetRegistry took 0.0814 seconds to start up
+[2019.08.07-00.22.20:941][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.07-00.22.21:370][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.07-00.22.21:412][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.07-00.22.21:413][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.07-00.22.21:415][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.07-00.22.21:415][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.07-00.22.21:511][  0]LogNetVersion: Cartest 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3561599636)
+[2019.08.07-00.22.23:139][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.169667 seconds
+[2019.08.07-00.22.23:149][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.08.07-00.22.23:149][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.08.07-00.22.23:149][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.07-00.22.26:492][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.07-00.22.26:514][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.07-00.22.26:598][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/RiftHMD'
+[2019.08.07-00.22.26:599][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/RiftHMD'
+[2019.08.07-00.22.26:600][  0]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /OculusVR/Meshes/RiftHMD.RiftHMD'
+[2019.08.07-00.22.26:600][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/GearVRController'
+[2019.08.07-00.22.26:601][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/GearVRController'
+[2019.08.07-00.22.26:601][  0]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /OculusVR/Meshes/GearVRController.GearVRController'
+[2019.08.07-00.22.26:601][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/LeftTouchController'
+[2019.08.07-00.22.26:602][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/LeftTouchController'
+[2019.08.07-00.22.26:602][  0]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /OculusVR/Meshes/LeftTouchController.LeftTouchController'
+[2019.08.07-00.22.26:603][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/RightTouchController'
+[2019.08.07-00.22.26:603][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Meshes/RightTouchController'
+[2019.08.07-00.22.26:603][  0]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /OculusVR/Meshes/RightTouchController.RightTouchController'
+[2019.08.07-00.22.26:604][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Materials/PokeAHoleMaterial'
+[2019.08.07-00.22.26:604][  0]LogLinker: Warning: No puede encontrar el archivo '/OculusVR/Materials/PokeAHoleMaterial'
+[2019.08.07-00.22.26:604][  0]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /OculusVR/Materials/PokeAHoleMaterial.PokeAHoleMaterial'
+[2019.08.07-00.22.28:381][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.07-00.22.28:382][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.07-00.22.28:395][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.07-00.22.28:402][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.07-00.22.28:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.07-00.22.28:953][  0]LogOcInput: OculusInput pre-init called
+[2019.08.07-00.22.29:227][  0]LogEngine: Initializing Engine...
+[2019.08.07-00.22.29:230][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.07-00.22.29:234][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.07-00.22.29:234][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.07-00.22.29:234][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.07-00.22.29:234][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.07-00.22.29:832][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.07-00.22.29:895][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.07-00.22.29:996][  0]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.22.30:960][  0]LogInit: FAudioDevice initialized.
+[2019.08.07-00.22.30:961][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.07-00.22.31:129][  0]LogDerivedDataCache: Saved boot cache 0.17s 67MB C:/Users/matia/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.07-00.22.31:146][  0]LogInit: Texture streaming: Enabled
+[2019.08.07-00.22.31:203][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.07-00.22.31:240][  0]LogInit: Transaction tracking system initialized
+[2019.08.07-00.22.31:316][  0]BlueprintLog: New page: Cargar el editor
+[2019.08.07-00.22.32:093][  0]LocalizationService: Localization service is disabled
+[2019.08.07-00.22.33:999][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matia/Documents/a git/Cartest/Content/' took 0.02s
+[2019.08.07-00.22.33:999][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.07-00.22.34:000][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.07-00.22.34:000][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.07-00.22.34:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.07-00.22.34:001][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.07-00.22.34:001][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.07-00.22.34:001][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.07-00.22.34:309][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.07-00.22.34:310][  0]Cmd: MAP LOAD FILE="../../../../../../Users/matia/Documents/a git/Cartest/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.07-00.22.34:312][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.07-00.22.34:323][  0]MapCheck: New page: Revisión del mapa
+[2019.08.07-00.22.34:323][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.07-00.22.36:142][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.22.36:236][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.07-00.22.36:300][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.07-00.22.36:300][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,242ms to complete.
+[2019.08.07-00.22.36:301][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 1.991
+[2019.08.07-00.22.36:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.22.36:502][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.22.36:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.22.36:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.22.36:553][  0]LogCollectionManager: Loaded 0 collections in 0.005155 seconds
+[2019.08.07-00.22.36:600][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matia/Documents/a git/Cartest/Saved/Collections/' took 0.01s
+[2019.08.07-00.22.36:601][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matia/Documents/a git/Cartest/Content/Developers/Waranis/Collections/' took 0.01s
+[2019.08.07-00.22.36:601][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matia/Documents/a git/Cartest/Content/Collections/' took 0.00s
+[2019.08.07-00.22.36:601][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.07-00.22.36:621][  0]LogContentBrowser: Native class hierarchy populated in 0.0186 seconds. Added 2653 classes and 623 folders.
+[2019.08.07-00.22.36:645][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.07-00.22.36:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.07-00.22.36:867][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.07-00.22.36:884][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.07-00.22.36:950][  0]LogSlate: Took 0.001017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.07-00.22.36:954][  0]LogSlate: Took 0.000783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.07-00.22.36:964][  0]LogSlate: Took 0.000939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.07-00.22.37:135][  0]LogRenderer: Reallocating scene render targets to support 676x372 Format 9 NumSamples 1 (Frame:1).
+[2019.08.07-00.22.37:688][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.08.07-00.22.37:688][  0]LogLoad: (Engine Initialization) Total time: 34.83 seconds
+[2019.08.07-00.22.37:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.07-00.22.37:726][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.08.07-00.22.37:729][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.08.07-00.22.37:730][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2019.08.07-00.22.37:730][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2019.08.07-00.22.37:730][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2019.08.07-00.22.37:865][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.08.07-00.22.37:974][  0]LogSlate: Took 0.001153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.07-00.22.38:420][  6]LogAssetRegistry: Asset discovery search completed in 18.3622 seconds
+[2019.08.07-00.22.38:424][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.07-00.22.38:424][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000104 seconds (updated 0 objects)
+[2019.08.07-00.22.39:084][  8]LogSlate: Took 0.000937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.07-00.30.50:246][167]LogEditorViewport: Clicking on Actor (LMB): Gatillar_pregunta_C (Gatillar_pregunta)
+[2019.08.07-00.30.52:578][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.30.54:275][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.30.55:936][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.30.55:973][338]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta
+[2019.08.07-00.30.57:526][338]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0041 seconds. Added 117 classes and 0 folders.
+[2019.08.07-00.31.01:466][338]LogSlate: Took 0.020588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.07-00.31.11:433][531]LogSlate: Window 'Gatillar_pregunta' being destroyed
+[2019.08.07-00.31.12:554][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.31.45:562][830]LogSlate: Took 0.001391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.07-00.31.52:757][ 31]LogRenderer: Reallocating scene render targets to support 764x484 Format 9 NumSamples 1 (Frame:1).
+[2019.08.07-00.31.52:778][ 32]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 2. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.08.07-00.32.01:032][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.32.08:536][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.32.08:679][461]Cmd: MODE GRID=0
+[2019.08.07-00.32.09:212][478]Cmd: MODE GRID=1
+[2019.08.07-00.32.19:411][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.32.22:544][848]LogEditorTransaction: Undo Remove Components
+[2019.08.07-00.32.22:600][848]LogActorComponent: ~FComponentReregisterContext: (/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Gatillar_pregunta6.CollisionComp) Component already registered.
+[2019.08.07-00.32.22:603][848]LogActorComponent: ~FComponentReregisterContext: (/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Gatillar_pregunta5.CollisionComp) Component already registered.
+[2019.08.07-00.32.22:606][848]LogActorComponent: ~FComponentReregisterContext: (/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Gatillar_pregunta4.CollisionComp) Component already registered.
+[2019.08.07-00.32.22:611][848]LogActorComponent: ~FComponentReregisterContext: (/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.Gatillar_pregunta2_5.CollisionComp) Component already registered.
+[2019.08.07-00.32.40:563][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.32.55:342][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.32.55:463][741]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.33.37:879][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.35.26:775][946]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/VehicleExampleMap_Auto1544E457849AD9B20CDCD959BD5B7A4A1.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto1.umap'
+[2019.08.07-00.35.26:811][946]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.743
+[2019.08.07-00.35.26:811][946]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.743
+[2019.08.07-00.35.26:817][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_test/Trigger/Gatillar_pregunta] ([1] browsable assets)...
+[2019.08.07-00.35.26:974][946]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta]
+[2019.08.07-00.35.26:974][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_test/Trigger/Gatillar_pregunta]
+[2019.08.07-00.35.27:330][946]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Gatillar_pregunta_Auto1CF0E205345407F8A585C58BD68B5982F.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/BP_test/Trigger/Gatillar_pregunta_Auto1.uasset'
+[2019.08.07-00.35.27:345][946]LogFileHelpers: Auto-saving content packages took 0.530
+[2019.08.07-00.38.44:208][776]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.38.50:370][906]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-00.38.50:405][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.38.50:406][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-00.38.50:418][906]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 16:38:50)
+[2019.08.07-00.38.50:452][906]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-00.38.50:504][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051929s)
+[2019.08.07-00.38.50:506][906]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.38.50:508][906]LogPlayLevel: PIE: World Init took: (0.004072s)
+[2019.08.07-00.38.50:508][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.056684s)
+[2019.08.07-00.38.50:572][906]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.38.50:623][906]LogInit: FAudioDevice initialized.
+[2019.08.07-00.38.50:689][906]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-00.38.50:745][906]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-20.38.50
+[2019.08.07-00.38.50:751][906]LogWorld: Bringing up level for play took: 0.040927
+[2019.08.07-00.38.50:809][906]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2019.08.07-00.38.50:828][906]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.38.50:830][906]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0,748
+[2019.08.07-00.38.50:831][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.38.52:410][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.38.52:539][967]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-00.38.52:539][967]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-00.39.19:176][556]Cmd: LevelEditor.ToggleImmersive
+[2019.08.07-00.39.19:436][557]LogRenderer: Reallocating scene render targets to support 876x492 Format 9 NumSamples 1 (Frame:652).
+[2019.08.07-00.39.19:583][558]LogRenderer: Reallocating scene render targets to support 972x548 Format 9 NumSamples 1 (Frame:654).
+[2019.08.07-00.39.19:591][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.39.21:391][600]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.39.23:769][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.39.23:898][660]LogBlueprintUserMessages: [Pregunta_C_0] Correcto
+[2019.08.07-00.39.23:981][662]LogBlueprintUserMessages: [Gatillar_pregunta2_5] 1
+[2019.08.07-00.39.28:105][763]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.39.29:007][784]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.39.30:098][809]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.39.33:485][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.39.33:658][891]LogBlueprintUserMessages: [Pregunta_C_2] Correcto
+[2019.08.07-00.39.33:790][894]LogBlueprintUserMessages: [Gatillar_pregunta5] 2
+[2019.08.07-00.39.35:488][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.39.35:489][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.39.35:595][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-00.39.35:596][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.39.35:670][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.39.35:684][934]LogRenderer: Reallocating scene render targets to support 1368x768 Format 9 NumSamples 1 (Frame:1004).
+[2019.08.07-00.39.35:762][935]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.08.07-00.39.37:838][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.39.45:648][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.40.35:810][499]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.40.39:342][688]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-00.40.39:382][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.40.39:382][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-00.40.39:382][688]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 16:40:39)
+[2019.08.07-00.40.39:382][688]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-00.40.39:426][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043517s)
+[2019.08.07-00.40.39:427][688]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.40.39:427][688]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2019.08.07-00.40.39:427][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.045041s)
+[2019.08.07-00.40.39:484][688]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.40.39:520][688]LogInit: FAudioDevice initialized.
+[2019.08.07-00.40.39:556][688]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-00.40.39:581][688]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-20.40.39
+[2019.08.07-00.40.39:582][688]LogWorld: Bringing up level for play took: 0.017315
+[2019.08.07-00.40.39:599][688]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.40.39:599][688]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0,483
+[2019.08.07-00.40.39:599][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.40.41:142][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.40.41:278][746]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-00.40.41:278][746]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-00.40.43:136][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.40.48:843][ 31]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.40.51:265][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.40.51:375][123]LogBlueprintUserMessages: [Pregunta_C_0] Correcto
+[2019.08.07-00.40.51:487][127]LogBlueprintUserMessages: [Gatillar_pregunta_2] 1
+[2019.08.07-00.40.54:834][252]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.40.56:975][327]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.40.57:687][352]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.40.58:530][381]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.41.00:238][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.41.00:410][446]LogBlueprintUserMessages: [Pregunta_C_3] Incorrecto
+[2019.08.07-00.41.03:879][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.41.03:880][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.41.03:952][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-00.41.03:953][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.41.04:093][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.41.04:195][571]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.07-00.41.23:351][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.41.34:544][341]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.41.36:351][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_test/Trigger/Gatillar_pregunta" FILE="../../../../../../Users/matia/Documents/a git/Cartest/Content/BP_test/Trigger/Gatillar_pregunta.uasset" SILENT=true
+[2019.08.07-00.41.36:467][472]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Gatillar_pregunta3B901A5C481FF9ABA0371295706CE453.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Content/BP_test/Trigger/Gatillar_pregunta.uasset'
+[2019.08.07-00.41.39:564][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-00.41.39:632][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.41.39:632][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-00.41.39:632][658]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 16:41:39)
+[2019.08.07-00.41.39:633][658]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-00.41.39:697][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064269s)
+[2019.08.07-00.41.39:699][658]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.41.39:700][658]LogPlayLevel: PIE: World Init took: (0.002537s)
+[2019.08.07-00.41.39:700][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.067463s)
+[2019.08.07-00.41.39:841][658]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.41.39:895][658]LogInit: FAudioDevice initialized.
+[2019.08.07-00.41.39:944][658]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-00.41.39:998][658]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-20.41.39
+[2019.08.07-00.41.40:000][658]LogWorld: Bringing up level for play took: 0.040229
+[2019.08.07-00.41.40:021][658]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.41.40:021][658]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0,061
+[2019.08.07-00.41.40:022][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.41.42:847][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.41.43:011][763]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-00.41.43:011][763]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-00.41.51:917][ 96]Cmd: LevelEditor.ToggleImmersive
+[2019.08.07-00.41.52:188][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.41.54:276][147]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.41.55:849][183]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.41.58:042][232]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.41.59:037][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.41.59:218][258]LogBlueprintUserMessages: [Pregunta_C_2] Incorrecto
+[2019.08.07-00.41.59:801][271]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.41.59:935][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.42.00:109][278]LogBlueprintUserMessages: [Pregunta_C_1] Incorrecto
+[2019.08.07-00.42.01:981][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.42.01:982][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.42.02:098][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-00.42.02:099][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.42.02:251][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.42.02:364][323]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.07-00.42.04:711][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.42.06:522][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.43.21:616][946]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.43.21:721][946]LogBlueprint: Error: [Compiler Gatillar_pregunta] This blueprint (self) is not a SimpleWheeledVehicleMovementComponent, therefore ' Meta ' must have a connection.
+[2019.08.07-00.43.22:606][946]LogBlueprint: Warning: [Compiler Gatillar_pregunta] [1279,75] Compile of Gatillar_pregunta failed. 1 Fatal Issue(s) 0 Warning(s) [in 988 ms] (/Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta)
+[2019.08.07-00.45.24:793][635]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.45.28:221][824]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-00.45.28:298][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.45.28:298][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-00.45.28:299][824]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 16:45:28)
+[2019.08.07-00.45.28:319][824]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-00.45.28:392][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072507s)
+[2019.08.07-00.45.28:394][824]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.45.28:395][824]LogPlayLevel: PIE: World Init took: (0.002602s)
+[2019.08.07-00.45.28:395][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.075873s)
+[2019.08.07-00.45.28:575][824]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.45.28:682][824]LogInit: FAudioDevice initialized.
+[2019.08.07-00.45.28:732][824]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-00.45.28:788][824]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-20.45.28
+[2019.08.07-00.45.28:790][824]LogWorld: Bringing up level for play took: 0.042450
+[2019.08.07-00.45.28:812][824]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.45.28:812][824]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0,73
+[2019.08.07-00.45.28:813][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.45.31:132][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.45.31:268][909]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-00.45.31:269][909]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-00.45.38:687][186]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.45.40:345][246]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.45.41:452][285]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.45.43:492][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.45.43:642][358]LogBlueprintUserMessages: [Pregunta_C_2] Incorrecto
+[2019.08.07-00.45.44:111][374]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.45.44:552][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.45.44:554][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.45.44:634][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-00.45.44:635][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.45.44:780][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.45.44:849][390]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.07-00.45.44:979][392]Cmd: SELECT NONE
+[2019.08.07-00.45.47:204][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.45.47:858][446]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-00.45.47:902][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.45.47:902][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-00.45.47:903][446]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 16:45:47)
+[2019.08.07-00.45.47:903][446]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-00.45.47:978][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074738s)
+[2019.08.07-00.45.47:981][446]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.45.47:981][446]LogPlayLevel: PIE: World Init took: (0.003008s)
+[2019.08.07-00.45.47:982][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.078557s)
+[2019.08.07-00.45.48:107][446]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.45.48:141][446]LogInit: FAudioDevice initialized.
+[2019.08.07-00.45.48:141][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.45.48:184][446]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-00.45.48:227][446]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-20.45.48
+[2019.08.07-00.45.48:228][446]LogWorld: Bringing up level for play took: 0.034997
+[2019.08.07-00.45.48:249][446]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.45.48:249][446]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0,167
+[2019.08.07-00.45.48:250][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.45.50:517][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.45.50:636][502]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-00.45.50:636][502]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-00.46.00:648][755]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.46.04:031][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.46.04:200][838]LogBlueprintUserMessages: [Pregunta_C_0] Correcto
+[2019.08.07-00.46.04:329][841]LogBlueprintUserMessages: [Gatillar_pregunta2_5] 1
+[2019.08.07-00.46.04:864][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.46.04:867][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.46.04:959][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-00.46.04:960][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.46.05:099][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.46.05:188][855]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.08.07-00.46.06:964][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.47.41:540][410]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.08.07-00.47.42:398][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.47.43:445][419]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/VehicleExampleMap_Auto2B4BFA73044AFADAC3A5E31BD5267C080.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto2.umap'
+[2019.08.07-00.47.43:465][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.961
+[2019.08.07-00.47.43:466][419]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.961
+[2019.08.07-00.47.43:470][419]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_test/Trigger/Gatillar_pregunta] ([1] browsable assets)...
+[2019.08.07-00.47.43:524][419]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta]
+[2019.08.07-00.47.43:524][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_test/Trigger/Gatillar_pregunta]
+[2019.08.07-00.47.43:724][419]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Gatillar_pregunta_Auto20FFCD0604C1F3D2CF24533B5B852375B.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/BP_test/Trigger/Gatillar_pregunta_Auto2.uasset'
+[2019.08.07-00.47.43:733][419]LogFileHelpers: Auto-saving content packages took 0.264
+[2019.08.07-00.47.52:040][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.47.53:351][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-00.47.53:382][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2019.08.07-00.48.04:447][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.48.14:363][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.48.40:801][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.48.53:230][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.49.02:750][922]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2019.08.07-00.50.47:256][948]LogEditorViewport: Clicking on Actor (LMB): Gatillar_pregunta_C (Gatillar_pregunta)
+[2019.08.07-00.50.48:458][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.52.11:858][442]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.52.11:939][442]LogBlueprint: Error: [Compiler Gatillar_pregunta] This blueprint (self) is not a Sedan_C, therefore ' Meta ' must have a connection.
+[2019.08.07-00.52.11:941][442]LogBlueprint: Error: [Compiler Gatillar_pregunta] El nodo de la variable  Ajustar InReverseGear  usa una meta no válida. Puede depender de un nodo que no esté conectado a la cadena de ejecución, y se haya eliminado.
+[2019.08.07-00.52.12:499][442]LogBlueprint: Warning: [Compiler Gatillar_pregunta] [1809,64] Compile of Gatillar_pregunta failed. 2 Fatal Issue(s) 0 Warning(s) [in 640 ms] (/Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta)
+[2019.08.07-00.52.26:812][982]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.52.30:218][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-00.52.30:275][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.52.30:276][ 98]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.07-00.52.30:389][ 98]LogPlayLevel: [PlayLevel] Compiling Sedan before play...
+[2019.08.07-00.52.31:062][ 98]LogPlayLevel: PlayLevel: Blueprint regeneration took 786 ms (1 blueprints)
+[2019.08.07-00.52.31:062][ 98]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 16:52:31)
+[2019.08.07-00.52.31:062][ 98]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-00.52.31:108][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045710s)
+[2019.08.07-00.52.31:110][ 98]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.52.31:110][ 98]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2019.08.07-00.52.31:110][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.048458s)
+[2019.08.07-00.52.31:232][ 98]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.52.31:309][ 98]LogInit: FAudioDevice initialized.
+[2019.08.07-00.52.31:354][ 98]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-00.52.31:370][ 98]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-20.52.31
+[2019.08.07-00.52.31:371][ 98]LogWorld: Bringing up level for play took: 0.012963
+[2019.08.07-00.52.31:387][ 98]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.52.31:387][ 98]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1,306
+[2019.08.07-00.52.31:388][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.52.32:843][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.52.33:006][154]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-00.52.33:006][154]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-00.52.43:965][566]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.52.46:462][655]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.52.47:225][681]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.52.48:076][709]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.52.48:291][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.52.48:414][720]LogBlueprintUserMessages: [Pregunta_C_2] Incorrecto
+[2019.08.07-00.52.50:088][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.52.50:090][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.52.50:158][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-00.52.50:159][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.52.50:298][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.52.50:387][779]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.07-00.52.53:170][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.53.05:911][412]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.53.07:747][469]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-00.53.07:865][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.53.07:865][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-00.53.07:866][469]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 16:53:07)
+[2019.08.07-00.53.07:866][469]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-00.53.07:937][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070471s)
+[2019.08.07-00.53.07:939][469]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-00.53.07:940][469]LogPlayLevel: PIE: World Init took: (0.002624s)
+[2019.08.07-00.53.07:940][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.073722s)
+[2019.08.07-00.53.08:115][469]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-00.53.08:212][469]LogInit: FAudioDevice initialized.
+[2019.08.07-00.53.08:255][469]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-00.53.08:304][469]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-20.53.08
+[2019.08.07-00.53.08:306][469]LogWorld: Bringing up level for play took: 0.036856
+[2019.08.07-00.53.08:326][469]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.53.08:326][469]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0,245
+[2019.08.07-00.53.08:327][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.53.10:053][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.53.10:188][533]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-00.53.10:188][533]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-00.53.20:774][930]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-00.53.27:020][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.53.27:187][159]LogBlueprintUserMessages: [Pregunta_C_0] Incorrecto
+[2019.08.07-00.53.31:668][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.53.31:669][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.53.31:752][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-00.53.31:753][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-00.53.31:881][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-00.53.31:975][329]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.08.07-00.53.32:796][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-00.54.57:792][631]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.54.57:903][631]LogBlueprint: Error: [Compiler Gatillar_pregunta] This blueprint (self) is not a MovieSceneSequencePlayer, therefore ' Meta ' must have a connection.
+[2019.08.07-00.54.58:325][631]LogBlueprint: Warning: [Compiler Gatillar_pregunta] [1975,47] Compile of Gatillar_pregunta failed. 1 Fatal Issue(s) 0 Warning(s) [in 532 ms] (/Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta)
+[2019.08.07-00.56.29:389][518]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-00.56.29:488][518]LogBlueprint: Error: [Compiler Gatillar_pregunta] This blueprint (self) is not a MagicLeapARPinComponent, therefore ' Meta ' must have a connection.
+[2019.08.07-00.56.29:829][518]LogBlueprint: Warning: [Compiler Gatillar_pregunta] [2066,97] Compile of Gatillar_pregunta failed. 1 Fatal Issue(s) 0 Warning(s) [in 440 ms] (/Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta)
+[2019.08.07-01.00.13:745][213]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/VehicleExampleMap_Auto31F69C48349A5A0205EEB4794E7B3B070.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto3.umap'
+[2019.08.07-01.00.13:776][213]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 1.410
+[2019.08.07-01.00.13:776][213]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.410
+[2019.08.07-01.00.13:788][213]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleBP/Sedan/Sedan] ([1] browsable assets)...
+[2019.08.07-01.00.14:020][213]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan]
+[2019.08.07-01.00.14:021][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/Sedan/Sedan]
+[2019.08.07-01.00.14:025][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/VehicleBP/Sedan/Sedan_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.08.07-01.00.14:546][213]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Sedan_Auto3589D8619476149A7E19308A298BCBCA0.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/VehicleBP/Sedan/Sedan_Auto3.uasset'
+[2019.08.07-01.00.14:559][213]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_test/Trigger/Gatillar_pregunta] ([1] browsable assets)...
+[2019.08.07-01.00.14:593][213]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_test/Trigger/Gatillar_pregunta.Gatillar_pregunta]
+[2019.08.07-01.00.14:593][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_test/Trigger/Gatillar_pregunta]
+[2019.08.07-01.00.14:717][213]LogSavePackage: Moving '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Gatillar_pregunta_Auto3D412904547E40C41E31FD484926D2350.tmp' to '../../../../../../Users/matia/Documents/a git/Cartest/Saved/Autosaves/Game/BP_test/Trigger/Gatillar_pregunta_Auto3.uasset'
+[2019.08.07-01.00.14:729][213]LogFileHelpers: Auto-saving content packages took 0.948
+[2019.08.07-01.02.25:019][691]BlueprintLog: New page: Compilar Sedan
+[2019.08.07-01.13.14:872][410]BlueprintLog: New page: Compilar Sedan
+[2019.08.07-01.13.17:952][456]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-01.13.18:032][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.18:032][456]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.07-01.13.18:070][456]LogPlayLevel: [PlayLevel] Compiling Gatillar_pregunta before play...
+[2019.08.07-01.13.18:471][456]LogPlayLevel: PlayLevel: Blueprint regeneration took 439 ms (1 blueprints)
+[2019.08.07-01.13.18:477][456]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 17:13:18)
+[2019.08.07-01.13.18:481][456]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-01.13.18:554][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072190s)
+[2019.08.07-01.13.18:569][456]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-01.13.18:573][456]LogPlayLevel: PIE: World Init took: (0.018269s)
+[2019.08.07-01.13.18:573][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.091715s)
+[2019.08.07-01.13.18:632][456]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-01.13.18:670][456]LogInit: FAudioDevice initialized.
+[2019.08.07-01.13.18:728][456]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-01.13.18:809][456]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-21.13.18
+[2019.08.07-01.13.18:823][456]LogWorld: Bringing up level for play took: 0.068386
+[2019.08.07-01.13.18:919][456]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.13.18:924][456]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0,842
+[2019.08.07-01.13.18:928][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.20:621][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-01.13.20:733][517]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue1
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00A9
+[2019.08.07-01.13.20:733][517]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:00CE
+[2019.08.07-01.13.24:197][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.24:198][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-01.13.24:268][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-01.13.24:269][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.24:347][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-01.13.24:387][648]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.07-01.13.25:823][676]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.08.07-01.13.27:369][696]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2019.08.07-01.13.29:023][719]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-01.13.29:088][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.29:089][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-01.13.29:089][719]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 17:13:29)
+[2019.08.07-01.13.29:090][719]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-01.13.29:168][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076725s)
+[2019.08.07-01.13.29:170][719]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-01.13.29:171][719]LogPlayLevel: PIE: World Init took: (0.003152s)
+[2019.08.07-01.13.29:171][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.080488s)
+[2019.08.07-01.13.29:385][719]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-01.13.29:446][719]LogInit: FAudioDevice initialized.
+[2019.08.07-01.13.29:446][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-01.13.29:495][719]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-01.13.29:551][719]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-21.13.29
+[2019.08.07-01.13.29:554][719]LogWorld: Bringing up level for play took: 0.042142
+[2019.08.07-01.13.29:577][719]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.13.29:578][719]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1,495
+[2019.08.07-01.13.29:578][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.31:258][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-01.13.31:394][781]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue2
+	Main_menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.Main_menu_C_0
+	Function /Game/BP_test/Hud´s/Menu/Main_menu.Main_menu_C:ExecuteUbergraph_Main_menu:0084
+[2019.08.07-01.13.35:351][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-01.13.45:119][302]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.13.48:482][410]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.13.50:531][479]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.13.50:682][484]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.13.51:526][511]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.13.53:489][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.53:491][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-01.13.53:576][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-01.13.53:577][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.13.53:722][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-01.13.53:787][575]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.07-01.13.55:751][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-01.14.02:224][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-01.14.13:535][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-01.15.47:116][874]BlueprintLog: New page: Compilar Gatillar_pregunta
+[2019.08.07-01.15.49:050][928]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-01.15.49:103][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.15.49:104][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-01.15.49:104][928]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (06-08-2019 17:15:49)
+[2019.08.07-01.15.49:104][928]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.08.07-01.15.49:138][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034076s)
+[2019.08.07-01.15.49:141][928]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.08.07-01.15.49:141][928]LogPlayLevel: PIE: World Init took: (0.002428s)
+[2019.08.07-01.15.49:141][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.036952s)
+[2019.08.07-01.15.49:214][928]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.07-01.15.49:247][928]LogInit: FAudioDevice initialized.
+[2019.08.07-01.15.49:284][928]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.08.07-01.15.49:305][928]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2019.08.06-21.15.49
+[2019.08.07-01.15.49:306][928]LogWorld: Bringing up level for play took: 0.014261
+[2019.08.07-01.15.49:321][928]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.15.49:321][928]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0,76
+[2019.08.07-01.15.49:322][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.15.50:870][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-01.15.57:390][228]Cmd: LevelEditor.ToggleImmersive
+[2019.08.07-01.15.57:618][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.07-01.16.01:234][317]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.16.04:780][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-01.16.04:928][402]LogBlueprintUserMessages: [Pregunta_C_0] Correcto
+[2019.08.07-01.16.04:957][403]LogBlueprintUserMessages: [Gatillar_pregunta6] 1
+[2019.08.07-01.16.08:079][477]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.16.11:590][558]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.16.15:385][642]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.07-01.16.15:387][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.16.15:393][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-01.16.15:520][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-01.16.15:521][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.08.07-01.16.15:654][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-01.16.15:664][642]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.07-01.16.21:487][642]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.822 s
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: 
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: SObjectWidget for 'Meta_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.Meta_C_0' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: Stack: 
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: [Callstack] 0x00007ff864539033 UE4Editor-UMG.dll!UnknownFunction []
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: [Callstack] 0x00007ff868d7bbe6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: [Callstack] 0x00007ff86028e1a9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.07-01.16.21:488][642]LogOutputDevice: Error: [Callstack] 0x00007ff86029a79f UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff8746ace10 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff87466fdd7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff87466f2e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff85f372521 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff85eda3002 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff85f6c2346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff785fa6225 UE4Editor.exe!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff785fb596c UE4Editor.exe!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff785fb59ea UE4Editor.exe!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff785fc48da UE4Editor.exe!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff785fc659a UE4Editor.exe!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff8b1014034 KERNEL32.DLL!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: [Callstack] 0x00007ff8b3be3691 ntdll.dll!UnknownFunction []
+[2019.08.07-01.16.21:490][642]LogOutputDevice: Error: 
+[2019.08.07-01.16.21:491][642]LogStats:                SubmitErrorReport -  0.000 s
